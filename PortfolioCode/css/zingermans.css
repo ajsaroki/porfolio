@@ -1,0 +1,26 @@
+.col-sm-12 {
+	width: 90%;
+}
+
+#home{
+	text-decoration: none;
+}
+
+#about{
+	text-decoration: none;
+}
+
+#contact{
+	text-decoration: none;
+
+}
+#resume{
+	text-decoration: none;
+}
+
+.introbody {
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-bottom: 50px;
+}
+

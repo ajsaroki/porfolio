@@ -1,0 +1,31 @@
+#contact{
+  text-decoration: underline;
+}
+
+#home {
+	text-decoration: none;
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url("../img/mail.jpg") ;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: 500px;
+  }
+
+h1{
+	font-size: 30px
+}
+
+.contactbody {
+	text-align: left;
+	margin-top: 100px;
+	margin-bottom: 400px;
+	margin-left: 30px;
+}
+
+.contactbody p {
+  font-size: 18px;
+}

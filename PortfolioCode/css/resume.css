@@ -1,0 +1,19 @@
+#home{
+	text-decoration: none;
+}
+
+#about{
+	text-decoration: none;
+}
+
+#contact{
+	text-decoration: none;
+
+}
+#resume{
+	text-decoration: underline;
+}
+
+.col-sm-12 {
+	width: 90%;
+}

@@ -1,0 +1,19 @@
+#home{
+	text-decoration: none;
+}
+
+#about{
+	text-decoration: underline;
+
+}
+
+.about {
+	font-size: 15px;
+}
+
+.adriana-img {
+	float: right;
+	width: 35%;
+	margin-left: 10px;
+	margin-right: 10px;
+}
